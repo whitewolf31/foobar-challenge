@@ -1,0 +1,7 @@
+/Archives/
+.*
+/Labs/**/out/
+*.iml
+lib/
+
+!.gitignore
